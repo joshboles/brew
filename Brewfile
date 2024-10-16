@@ -1,5 +1,4 @@
 tap "homebrew/bundle"
-tap "homebrew/cask-fonts"
 tap "int128/kubelogin"
 brew "azure-cli"
 brew "bandwhich"
