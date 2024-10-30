@@ -26,6 +26,7 @@ brew "monolith"
 brew "neovim"
 brew "pipx"
 brew "ripgrep"
+brew "ruff"
 brew "rust"
 brew "starship"
 brew "uv"
@@ -38,5 +39,3 @@ cask "font-fira-code-nerd-font"
 cask "font-fira-mono-nerd-font"
 cask "font-hack-nerd-font"
 cask "font-ubuntu-nerd-font"
-mas "Amphetamine", id: 937984704
-mas "Xcode", id: 497799835
